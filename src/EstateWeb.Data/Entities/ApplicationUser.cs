@@ -6,4 +6,5 @@ namespace EstateWeb.Data.Entities
     {
 
     }
+    
 }
