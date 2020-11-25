@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace EstateWeb.Data
+namespace EstateApp.Data
 {
     public class Class1
     {
