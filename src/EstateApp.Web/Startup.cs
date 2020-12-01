@@ -62,6 +62,7 @@ namespace EstateApp.Web
                 
             services.AddControllersWithViews();
             services.AddTransient<IAccountsService, AccountsService>();
+             services.AddTransient<IPropertyService, PropertyService>();
 
         }
 
